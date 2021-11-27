@@ -4,3 +4,5 @@ It uses HTML5 and CSS3.
 
 ## FEATURES
 * List of daily tasks
+
+License: MIT.
